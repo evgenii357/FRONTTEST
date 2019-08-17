@@ -115,7 +115,7 @@ const Catalog = () => {
             <Products>
                 {selectedProducts.map((value, index) => 
                     <Product 
-                        key={index} 
+                        key={value._id} 
                         _id={value._id}
                         title={value.title} 
                         description={value.description} 
