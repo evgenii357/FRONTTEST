@@ -1,0 +1,191 @@
+[
+    {
+        "category": 1,
+        "title": "Магуро",
+        "description": "с тунцом",
+        "price": 5,
+        "gram": 50,
+        "type": "Hit",
+        "uri": "/public/img/Sushi_Ebi.jpg"
+    },
+    {
+        "category": 1,
+        "title": "Магуро",
+        "description": "с тунцом",
+        "price": 50,
+        "gram": 50,
+        "type": "Hit",
+        "uri": "/public/img/Sushi_Ebi.jpg"
+    },
+    {
+        "category": 1,
+        "title": "Магуро",
+        "description": "с тунцом",
+        "price": 75,
+        "gram": 50,
+        "type": "Hit",
+        "uri": "/public/img/Sushi_Ebi.jpg"
+    },
+    {
+        "category": 1,
+        "title": "Магуро",
+        "description": "с тунцом",
+        "price": 325,
+        "gram": 50,
+        "type": "Hit",
+        "uri": "/public/img/Sushi_Ebi.jpg"
+    },
+    {
+        "category": 1,
+        "title": "Магуро",
+        "description": "с тунцом",
+        "price": 75,
+        "gram": 50,
+        "type": "Hit",
+        "uri": "/public/img/Sushi_Ebi.jpg"
+    },
+    {
+        "category": 1,
+        "title": "Магуро",
+        "description": "с тунцом",
+        "price": 75,
+        "gram": 50,
+        "type": "Hit",
+        "uri": "/public/img/Sushi_Ebi.jpg"
+    },
+    {
+        "category": 1,
+        "title": "Магуро",
+        "description": "с тунцом",
+        "price": 75,
+        "gram": 50,
+        "type": "Hit",
+        "uri": "/public/img/Sushi_Ebi.jpg"
+    },
+    {
+        "category": 1,
+        "title": "Магуро",
+        "description": "с тунцом",
+        "price": 75,
+        "gram": 50,
+        "type": "Hit",
+        "uri": "/public/img/Sushi_Ebi.jpg"
+    },
+    {
+        "category": 1,
+        "title": "Магуро",
+        "description": "с тунцом",
+        "price": 75,
+        "gram": 50,
+        "type": "Hit",
+        "uri": "/public/img/Sushi_Ebi.jpg"
+    },
+    {
+        "category": 1,
+        "title": "Магуро",
+        "description": "с тунцом",
+        "price": 75,
+        "gram": 5,
+        "type": "Veg",
+        "uri": "/public/img/Sushi_Maguro.jpg"
+    },
+    {
+        "category": 3,
+        "title": "Магуро",
+        "description": "с тунцом",
+        "price": 75,
+        "gram": 70,
+        "type": "Hit",
+        "uri": "/public/img/Sushi_Ebi.jpg"
+    },
+    {
+        "category": 3,
+        "title": "Магуро",
+        "description": "с тунцом",
+        "price": 75,
+        "gram": 70,
+        "type": "Hit",
+        "uri": "/public/img/Sushi_Ebi.jpg"
+    },
+    {
+        "category": 3,
+        "title": "Магуро",
+        "description": "с тунцом",
+        "price": 75,
+        "gram": 70,
+        "type": "Hit",
+        "uri": "/public/img/Sushi_Ebi.jpg"
+    },
+    {
+        "category": 4,
+        "title": "Магуро",
+        "description": "с тунцом",
+        "price": 75,
+        "gram": 70,
+        "type": "Hit",
+        "uri": "/public/img/Sushi_abokado.jpg"
+    },
+    {
+        "category": 5,
+        "title": "Магуро",
+        "description": "с тунцом",
+        "price": 70,
+        "gram": 70,
+        "type": "Hit",
+        "uri": "/public/img/Sushi_Ebi.jpg"
+    },
+    {
+        "category": 2,
+        "title": "Магуро",
+        "description": "с тунцом",
+        "price": 155,
+        "gram": 70,
+        "type": "Hit",
+        "uri": "/public/img/Sushi_Ebi.jpg"
+    },
+    {
+        "category": 2,
+        "title": "Магуро",
+        "description": "с тунцом",
+        "price": 155,
+        "gram": 70,
+        "type": "Hit",
+        "uri": "/public/img/Sushi_Ebi.jpg"
+    },
+    {
+        "category": 2,
+        "title": "Магуро",
+        "description": "с тунцом",
+        "price": 155,
+        "gram": 70,
+        "type": "Hit",
+        "uri": "/public/img/Sushi_Ebi.jpg"
+    },
+    {
+        "category": 3,
+        "title": "Магуро",
+        "description": "с тунцом",
+        "price": 75,
+        "gram": 70,
+        "type": "Hit",
+        "uri": "/public/img/Sushi_Ebi.jpg"
+    },
+    {
+        "category": 5,
+        "title": "Магуро",
+        "description": "с тунцом",
+        "price": 75,
+        "gram": 70,
+        "type": "Hit",
+        "uri": "/public/img/Sushi_Unagi.jpg"
+    },
+    {
+        "category": 2,
+        "title": "Реакт",
+        "description": "с редаксом",
+        "price": 750,
+        "gram": 7,
+        "type": "NONE",
+        "uri": "/public/img/Sushi_Ebi.jpg"
+    }
+]

@@ -1,0 +1,5 @@
+node_modules/
+build/
+log.txt
+images/
+react-app-env.d.ts
